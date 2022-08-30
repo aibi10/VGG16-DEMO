@@ -1,2 +1,1 @@
-# general_template
-general template for any project
+# /c/Users/ASUS/Downloads/VGG16/VGG16-DEMO
