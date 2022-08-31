@@ -9,3 +9,4 @@ pip install -r requirements.txt
 echo [$(date)]: "Curl gitignore for python"
 curl https://raw.githubusercontent.com/aibi10/pytorch-CNN/main/.gitignore > .gitignore
 echo "# ${PWD}" > README.md
+conda env export > conda.yaml
